@@ -1,0 +1,7 @@
+C:\Users\Professor\source\repos\BibliotecaDejogos\bin\Debug\BibliotecaDejogos.exe.config
+C:\Users\Professor\source\repos\BibliotecaDejogos\bin\Debug\BibliotecaDejogos.exe
+C:\Users\Professor\source\repos\BibliotecaDejogos\bin\Debug\BibliotecaDejogos.pdb
+C:\Users\Professor\source\repos\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.exe
+C:\Users\Professor\source\repos\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.pdb
+C:\Users\Professor\source\repos\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.csprojAssemblyReference.cache

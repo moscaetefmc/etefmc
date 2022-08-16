@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zo5Js2hMsocaF3mClLa4xZ4xzLjMdS8PXX+xFfoJ0lHoNDZrgeqXWD42KSWAKWFaVfjChWiC7aJNqL/dMkVu7g==",
+  "success": true,
+  "projectFilePath": "E:\\ETE\\Desenvolvimento de Aplicativos\\Projetos Visual Studio\\BibliotecaDeJogos\\BlbliotecaDeJogos\\BlbliotecaDeJogos\\BlbliotecaDeJogos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
